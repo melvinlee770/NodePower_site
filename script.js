@@ -1,4 +1,4 @@
-/* ===== STAX site interactions ===== */
+/* ===== NodePower site interactions ===== */
 (function () {
   'use strict';
 
